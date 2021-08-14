@@ -1,2 +1,2 @@
-# berkeley_fintech_module_7_challenge
-Analyze the performance of a fintech ETF
+# Analyze an ETF
+Analyze the performance of a ETF using Python, Voila library and data stored in an SQL database
